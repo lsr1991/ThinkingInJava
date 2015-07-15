@@ -1,2 +1,2 @@
 # ThinkingInJava
-practice when learning _thinking in java_
+practice when learning _Thinking in Java_
