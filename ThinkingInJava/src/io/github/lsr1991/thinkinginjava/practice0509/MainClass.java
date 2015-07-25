@@ -1,4 +1,4 @@
-package me.lsr.thinkinginjava.practice0509;
+package io.github.lsr1991.thinkinginjava.practice0509;
 
 public class MainClass {
 
